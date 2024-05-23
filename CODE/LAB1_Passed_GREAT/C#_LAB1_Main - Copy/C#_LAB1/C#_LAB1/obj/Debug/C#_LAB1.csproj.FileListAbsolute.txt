@@ -1,0 +1,108 @@
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe.config
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.AssemblyReference.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Properties.Resources.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.GenerateResource.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.CoreCompileInputs.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignUp.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignIn.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe.config
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.AssemblyReference.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignIn.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignUp.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Properties.Resources.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.GenerateResource.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.CoreCompileInputs.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1 - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmAppChat.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe.config
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.AssemblyReference.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmAppChat.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignIn.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignUp.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Properties.Resources.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.GenerateResource.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.CoreCompileInputs.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.AssemblyReference.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmAppChat.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignIn.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignUp.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Properties.Resources.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.GenerateResource.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.CoreCompileInputs.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe.config
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Message.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe.config
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.AssemblyReference.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmAppChat.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignIn.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignUp.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Properties.Resources.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.GenerateResource.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.CoreCompileInputs.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Form1.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.VirusssRightMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.LinhEiLeftMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.LinhEiRightMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.ucLinhEiChat.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.ucVirusssChat.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Form2.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.VirusssLeftMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.CodeDaoLeftMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.CodeDaoRightMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.ucCodeDao.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\Interop.WMPLib.dll
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\AxInterop.WMPLib.dll
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\Interop.WMPLib.dll
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\AxInterop.WMPLib.dll
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.ResolveComReference.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.CodeDaoLeftMediaPlayer.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.historyVideo.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe.config
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\C#_LAB1.pdb
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\Interop.WMPLib.dll
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\bin\Debug\AxInterop.WMPLib.dll
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.AssemblyReference.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\Interop.WMPLib.dll
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\AxInterop.WMPLib.dll
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.ResolveComReference.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmAppChat.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.CodeDaoLeftMediaPlayer.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.CodeDaoLeftMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.CodeDaoRightMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Form1.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Form2.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.historyVideo.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.LinhEiLeftMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.LinhEiRightMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.ucCodeDao.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.ucLinhEiChat.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.ucVirusssChat.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.VirusssLeftMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.VirusssRightMessage.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignIn.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.frmSignUp.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C__LAB1.Properties.Resources.resources
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.GenerateResource.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.csproj.CoreCompileInputs.cache
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.exe
+D:\UIT_VNU\2023-2024 HK2\C#----------.NET_Front-End\Labs\LAB1_5.5\C#_LAB1_Main - Copy\C#_LAB1\C#_LAB1\obj\Debug\C#_LAB1.pdb

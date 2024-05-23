@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>C__LAB1</RootNamespace>
+    <AssemblyName>C#_LAB1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppChat.Designer.cs">
+      <DependentUpon>AppChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeDaoLeftMediaPlayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CodeDaoLeftMediaPlayer.Designer.cs">
+      <DependentUpon>CodeDaoLeftMediaPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeDaoLeftMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CodeDaoLeftMessage.Designer.cs">
+      <DependentUpon>CodeDaoLeftMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeDaoRightMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CodeDaoRightMessage.Designer.cs">
+      <DependentUpon>CodeDaoRightMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="historyVideo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="historyVideo.Designer.cs">
+      <DependentUpon>historyVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LinhEiLeftMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LinhEiLeftMessage.Designer.cs">
+      <DependentUpon>LinhEiLeftMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LinhEiRightMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LinhEiRightMessage.Designer.cs">
+      <DependentUpon>LinhEiRightMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucLinhEiChat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucLinhEiChat.Designer.cs">
+      <DependentUpon>ucLinhEiChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucVirusssChat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucVirusssChat.Designer.cs">
+      <DependentUpon>ucVirusssChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCodeDao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCodeDao.Designer.cs">
+      <DependentUpon>ucCodeDao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VirusssLeftMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VirusssLeftMessage.Designer.cs">
+      <DependentUpon>VirusssLeftMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VirusssRightMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VirusssRightMessage.Designer.cs">
+      <DependentUpon>VirusssRightMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AppChat.resx">
+      <DependentUpon>AppChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodeDaoLeftMediaPlayer.resx">
+      <DependentUpon>CodeDaoLeftMediaPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodeDaoLeftMessage.resx">
+      <DependentUpon>CodeDaoLeftMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodeDaoRightMessage.resx">
+      <DependentUpon>CodeDaoRightMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="historyVideo.resx">
+      <DependentUpon>historyVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LinhEiLeftMessage.resx">
+      <DependentUpon>LinhEiLeftMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LinhEiRightMessage.resx">
+      <DependentUpon>LinhEiRightMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucLinhEiChat.resx">
+      <DependentUpon>ucLinhEiChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucVirusssChat.resx">
+      <DependentUpon>ucVirusssChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCodeDao.resx">
+      <DependentUpon>ucCodeDao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VirusssLeftMessage.resx">
+      <DependentUpon>VirusssLeftMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VirusssRightMessage.resx">
+      <DependentUpon>VirusssRightMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

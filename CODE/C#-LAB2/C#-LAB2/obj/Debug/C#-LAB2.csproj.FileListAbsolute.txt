@@ -1,0 +1,4 @@
+C:\Users\CCNP Enterprise Core\Desktop\C#-LAB2\C#-LAB2\obj\Debug\C#-LAB2.csproj.AssemblyReference.cache
+C:\Users\CCNP Enterprise Core\Desktop\C#-LAB2\C#-LAB2\obj\Debug\C__LAB2.Properties.Resources.resources
+C:\Users\CCNP Enterprise Core\Desktop\C#-LAB2\C#-LAB2\obj\Debug\C#-LAB2.csproj.GenerateResource.cache
+C:\Users\CCNP Enterprise Core\Desktop\C#-LAB2\C#-LAB2\obj\Debug\C#-LAB2.csproj.CoreCompileInputs.cache

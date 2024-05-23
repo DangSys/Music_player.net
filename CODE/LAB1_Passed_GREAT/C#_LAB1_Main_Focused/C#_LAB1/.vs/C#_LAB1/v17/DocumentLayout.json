@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|c:\\users\\ccnp enterprise core\\desktop\\lab1_5.5\\c#_lab1_main - copy - copy (2)\\c#_lab1\\c#_lab1\\codedaoleftmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|solutionrelative:c#_lab1\\codedaoleftmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|c:\\users\\ccnp enterprise core\\desktop\\lab1_5.5\\c#_lab1_main - copy - copy (2)\\c#_lab1\\c#_lab1\\codedaoleftmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|solutionrelative:c#_lab1\\codedaoleftmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|c:\\users\\ccnp enterprise core\\desktop\\lab1_5.5\\c#_lab1_main - copy - copy (2)\\c#_lab1\\c#_lab1\\ucvirussschat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|solutionrelative:c#_lab1\\ucvirussschat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\c#_lab1\\uclinheichat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|solutionrelative:c#_lab1\\uclinheichat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\c#_lab1\\uccodedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|solutionrelative:c#_lab1\\uccodedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\c#_lab1\\appchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59DA8464-2C8F-43F4-A00A-9EF70B4B954A}|C#_LAB1\\C#_LAB1.csproj|solutionrelative:c#_lab1\\appchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 189,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeDaoLeftMediaPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\CodeDaoLeftMediaPlayer.cs",
+              "RelativeDocumentMoniker": "C#_LAB1\\CodeDaoLeftMediaPlayer.cs",
+              "ToolTip": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\CodeDaoLeftMediaPlayer.cs*",
+              "RelativeToolTip": "C#_LAB1\\CodeDaoLeftMediaPlayer.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:40:46.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodeDaoLeftMediaPlayer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\CodeDaoLeftMediaPlayer.cs",
+              "RelativeDocumentMoniker": "C#_LAB1\\CodeDaoLeftMediaPlayer.cs",
+              "ToolTip": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\CodeDaoLeftMediaPlayer.cs [Design]*",
+              "RelativeToolTip": "C#_LAB1\\CodeDaoLeftMediaPlayer.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:40:39.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucVirusssChat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\ucVirusssChat.cs",
+              "RelativeDocumentMoniker": "C#_LAB1\\ucVirusssChat.cs",
+              "ToolTip": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\ucVirusssChat.cs [Design]",
+              "RelativeToolTip": "C#_LAB1\\ucVirusssChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:37:27.081Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucLinhEiChat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\ucLinhEiChat.cs",
+              "RelativeDocumentMoniker": "C#_LAB1\\ucLinhEiChat.cs",
+              "ToolTip": "D:\\UIT_VNU\\2023-2024 HK2\\C#----------.NET_Front-End\\Labs\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\ucLinhEiChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:37:26.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucCodeDao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\ucCodeDao.cs",
+              "RelativeDocumentMoniker": "C#_LAB1\\ucCodeDao.cs",
+              "ToolTip": "D:\\UIT_VNU\\2023-2024 HK2\\C#----------.NET_Front-End\\Labs\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\ucCodeDao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:37:24.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppChat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CCNP Enterprise Core\\Desktop\\LAB1_5.5\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\AppChat.cs",
+              "RelativeDocumentMoniker": "C#_LAB1\\AppChat.cs",
+              "ToolTip": "D:\\UIT_VNU\\2023-2024 HK2\\C#----------.NET_Front-End\\Labs\\C#_LAB1_Main - Copy - Copy (2)\\C#_LAB1\\C#_LAB1\\AppChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:37:19.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
